@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "Kamal",
+        "title": "Mrs",
         "address": "Kelaniya",
         "salary": 25000.0,
         "password": "123"
@@ -9,6 +10,7 @@
         {
         "id": 2,
         "name": "Nimal",
+        "title": "Mrs",
         "address": "Kelaniya",
         "salary": 25000.0,
         "password": "123"
@@ -16,6 +18,7 @@
         {
         "id": 3,
         "name": "Amal",
+        "title": "Mrs",
         "address": "Kelaniya",
         "salary": 25000.0,
         "password": "123"
@@ -23,6 +26,7 @@
         {
         "id": 4,
         "name": "Sunil",
+        "title": "Mrs",
         "address": "Kelaniya",
         "salary": 25000.0,
         "password": "123"
@@ -30,6 +34,7 @@
         {
         "id": 5,
         "name": "Bimal",
+        "title": "Mrs",
         "address": "Kelaniya",
         "salary": 25000.0,
         "password": "123"
@@ -37,6 +42,7 @@
         {
         "id": 6,
         "name": "Sirimal",
+        "title": "Mrs",
         "address": "Kelaniya",
         "salary": 25000.0,
         "password": "123"
@@ -44,6 +50,7 @@
         {
         "id": 7,
         "name": "Kasun",
+        "title": "Mrs",
         "address": "Kelaniya",
         "salary": 25000.0,
         "password": "123"

@@ -35,7 +35,7 @@ function addCustomer(){
     document.getElementById("address").value = "";
     document.getElementById("salary").value = "";
     document.getElementById("password").value = "";
-    document.getElementById("title").value = "";
+    // document.getElementById("title").value = "";
 
 
     // loadTable(newCus);
@@ -77,7 +77,13 @@ function loadTable(){
 function readJson(){
     fetch("/customers.json")
     .then(res => res.json())
-    .then(data => console.log(data))
+    .then(data => {
+        customerList = data
+        // console.log(customerList)
+        loadTable();
+    })
 }
 
 readJson();
+// console.log(customerList)
+// loadTable();
