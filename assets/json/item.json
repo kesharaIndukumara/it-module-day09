@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "itemName": "burger01",
+        "description": "Tasty Burger",
+        "price": 250.0,
+        "img": "https://www.foodandwine.com/thmb/SAGRjLJG7nFr3Ca2yfSLyXyHC_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+    },
+    {
+        "id":2,
+        "itemName": "burger01",
+        "description": "Tasty Burger",
+        "price": 250.0,
+        "img": "https://www.foodandwine.com/thmb/SAGRjLJG7nFr3Ca2yfSLyXyHC_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+    },
+    {
+        "id":3,
+        "itemName": "burger01",
+        "description": "Tasty Burger",
+        "price": 250.0,
+        "img": "https://www.foodandwine.com/thmb/SAGRjLJG7nFr3Ca2yfSLyXyHC_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+    },
+    {
+        "id":4,
+        "itemName": "burger01",
+        "description": "Tasty Burger",
+        "price": 250.0,
+        "img": "https://www.foodandwine.com/thmb/SAGRjLJG7nFr3Ca2yfSLyXyHC_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+    },
+    {
+        "id":5,
+        "itemName": "burger01",
+        "description": "Tasty Burger",
+        "price": 250.0,
+        "img": "https://www.foodandwine.com/thmb/SAGRjLJG7nFr3Ca2yfSLyXyHC_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+    },
+    {
+        "id":6,
+        "itemName": "burger01",
+        "description": "Tasty Burger",
+        "price": 250.0,
+        "img": "https://www.foodandwine.com/thmb/SAGRjLJG7nFr3Ca2yfSLyXyHC_E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+    }
+]
