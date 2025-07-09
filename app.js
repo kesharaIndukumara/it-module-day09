@@ -38,10 +38,10 @@ function addCustomer(){
     document.getElementById("title").value = "";
 
 
-    loadTable(newCus);
+    // loadTable(newCus);
     // loadTable();
 
-    console.log(document.getElementById("btnReg"))
+    // console.log(document.getElementById("btnReg"))
 }
 
 function loadTable(newCustomerRef){
@@ -73,3 +73,11 @@ function loadTable(){
         `
     })
 }
+
+function readJson(){
+    fetch("/customers.json")
+    .then(res => res.json())
+    .then(data => console.log(data))
+}
+
+readJson();

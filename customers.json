@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Kamal",
+        "address": "Kelaniya",
+        "salary": 25000.0,
+        "password": "123"
+    },
+        {
+        "id": 2,
+        "name": "Nimal",
+        "address": "Kelaniya",
+        "salary": 25000.0,
+        "password": "123"
+    },
+        {
+        "id": 3,
+        "name": "Amal",
+        "address": "Kelaniya",
+        "salary": 25000.0,
+        "password": "123"
+    },
+        {
+        "id": 4,
+        "name": "Sunil",
+        "address": "Kelaniya",
+        "salary": 25000.0,
+        "password": "123"
+    },
+        {
+        "id": 5,
+        "name": "Bimal",
+        "address": "Kelaniya",
+        "salary": 25000.0,
+        "password": "123"
+    },
+        {
+        "id": 6,
+        "name": "Sirimal",
+        "address": "Kelaniya",
+        "salary": 25000.0,
+        "password": "123"
+    },
+        {
+        "id": 7,
+        "name": "Kasun",
+        "address": "Kelaniya",
+        "salary": 25000.0,
+        "password": "123"
+    }
+]
